@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 
-VERSION = '1.0.0'
+VERSION = '1.0.1'
 DESCRIPTION = 'A python lib to extend classes'
 LONG_DESCRIPTION = 'A python lib to extend classes. Inject methods in a class without inheritance. It access protected methods and attributes.'
 
