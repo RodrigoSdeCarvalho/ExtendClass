@@ -11,6 +11,7 @@ from ExtendClass.Extension import Extend
 
 # Use
 mod_cls = Extend(cls, method)
+
 mod_obj = Extend(cls, method)(*args, **kwargs)
 
 with Extend(cls, method): You can use the extended class here inside the with block
